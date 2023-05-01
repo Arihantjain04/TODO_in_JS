@@ -90,3 +90,17 @@ trash.addEventListener("click", function(){
     AutoRefresh(1);
 
 });
+
+@media (width <= 400px){
+    
+    input{
+        width: 60%;
+    }
+
+    button{
+        width: 30%;
+        text-align: center;
+        padding: 0;
+    }
+
+}
